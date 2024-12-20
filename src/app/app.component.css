@@ -1,0 +1,65 @@
+
+.full-height {
+    display: flex;
+    height: 25vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .welcome-text {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+  }
+  .welcome-text {
+    font-size: 36px; 
+    font-weight: bold; 
+    color: #333; 
+    margin: 0; 
+  }
+  .full-height {
+    display: flex;
+    height: 100vh; 
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+  }
+.btn-primary {
+    background-color: blue;
+    color: white;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: darkblue;
+  }
+  
+  .btn {
+    padding: 20px 40px; 
+    margin: 30px;
+    font-size: 20px; 
+    border-radius: 30px; 
+    cursor: pointer;
+  }
+  
+  .btn-success {
+    background-color: green;
+    color: white;
+  }
+  
+  .btn-group {
+    gap: 50px; 
+  }
+  
+  .row {
+    margin-top: 250px; 
+  }
+  
+
+  
+  
+  
+  
+  
